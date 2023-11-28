@@ -7,7 +7,7 @@ ____
 
 ## ***Мови програмування***
 
-<img src="https://img.shields.io/badge/scratch-black?style=for-the-badge&logo=scratch&logoColor=f9a938"/> <img src="https://img.shields.io/badge/TurboWarp-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=Python"/>
+<img src="https://img.shields.io/badge/scratch-black?style=for-the-badge&logo=scratch&logoColor=f9a938"/> <img src="https://img.shields.io/badge/TurboWarp-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=Python"/> <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown"/>
 
 ## ***Редактори кода***
 
@@ -24,4 +24,4 @@ ____
 
 # ***Контакти***
 <a href="https://www.youtube.com/channel/UCCtRqIwouqSfzPwYMB7DJkw" target="_blank"><img src="https://img.shields.io/badge/youtube-black?style=for-the-badge&logo=youtube&logoColor=ff0000"/></a>
-<a href="https://t.me/video_play_games" target="_blank"><img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram"/></a> <a href="https://github.com/qzwxas83" target="_blank"><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=wight"/></a>
+<a href="https://t.me/video_play_games" target="_blank"><img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram"/></a> <a href="https://discord.com/channels/@qzwxas83"> <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=5865F2"/></a> <a href="https://github.com/qzwxas83" target="_blank"><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=wight"/></a>
